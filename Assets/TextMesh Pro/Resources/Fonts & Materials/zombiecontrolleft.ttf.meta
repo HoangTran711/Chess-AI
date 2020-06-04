@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 990bbf8349f3045b988f47b57f5fe0e1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zombie Control Leftalic
+  fontNames:
+  - Zombie Control Leftalic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dc9196ae08191409190292940647fabe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

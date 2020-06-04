@@ -15,10 +15,10 @@ public class GameManager : MonoBehaviour
 
 	void Update ()
     {
-        if (_kingDead)
+        if (_kingDead )
         {
             Debug.Log("WINNER!");
-            //UnityEditor.EditorApplication.isPlaying = false;
+            UnityEditor.EditorApplication.isPlaying = false;
             Application.Quit();
         }
         if (!playerTurn && timer < 3)

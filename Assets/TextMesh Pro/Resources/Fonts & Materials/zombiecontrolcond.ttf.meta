@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9679e86927eac4f64a7d4df1c381cabc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Zombie Control Condensed
+  fontNames:
+  - Zombie Control Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ff047c2be2a414160bf0b097233d4bec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
